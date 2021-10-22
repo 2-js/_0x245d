@@ -1,12 +1,28 @@
-### bombparty auto update cheat
+### bombparty auto update cheat (free verison)
 ```js
 javascript:
 fetch("https://raw.githubusercontent.com/2-js/bombparty/main/jklm.txt")
 .then((res) => res.text()
 .then((t) => eval(t)))
 ```
-#### how to use
+#### features FREE
+* [ ] opens a new tab with included syllables
 
-* [ ] *ctrl - 15 letter word lookup ( slower )*
+* [ ] near 5 second load time (very slow)
 
-* [ ] *shift - fastest result*
+* [ ] unformatted and requires you to scroll down
+
+###### *ctrl to use*
+#### unlocks with paid verson $6
+* [ ] two search options
+
+* [ ] near instant search results
+
+* [ ] perfect formatting 
+ 
+* [ ] 15 letter word search
+ 
+* [ ] no trade mark
+
+* [ ] no popups during startup
+###### *shift for fastest result - ctrl for 15 letter word*
