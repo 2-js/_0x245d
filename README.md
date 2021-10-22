@@ -10,4 +10,3 @@ fetch("https://raw.githubusercontent.com/2-js/bombparty/main/jklm.txt")
 * [ ] *ctrl - 15 letter word lookup ( slower )*
 
 * [ ] *shift - fastest result*
-###### *you can make your main jklm tab smaller so the opened tab is always visible*
