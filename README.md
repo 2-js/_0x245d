@@ -1,3 +1,6 @@
+<img src="https://img.shields.io/badge/quizizz%20room code-working-success"></img>  <img src="https://img.shields.io/badge/quizizz%20manual answers-working-success"></img>  <img src="https://img.shields.io/badge/quizizz%20force start-not tested-important"></img>  <img src="https://img.shields.io/badge/quizizz%20kick-not tested-important"></img>  <img src="https://img.shields.io/badge/blooket%20container highlight-not tested-important"></img>
+
+
 ## <p align="center">🛈 What is this?</p>
 
 <p align="center">This is a collection of different popular hacks and cheats for blooket and quizizz. Scroll down to the bottom of the page for more details. I have only chosen hacks that can be run on a chromebook since most people play blooket and quizizz at school on their chromebooks.
