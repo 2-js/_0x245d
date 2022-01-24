@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/quizizz%20room code-working-success"></img>  <img src="https://img.shields.io/badge/quizizz%20manual answers-working-success"></img>  <img src="https://img.shields.io/badge/quizizz%20force start-not tested-important"></img>  <img src="https://img.shields.io/badge/quizizz%20kick-not tested-important"></img>  <img src="https://img.shields.io/badge/blooket%20container highlight-not tested-important"></img>
+<img src="https://img.shields.io/badge/quizizz%20room code-working-success"></img>  <img src="https://img.shields.io/badge/quizizz%20manual answers-working-success"></img>  <img src="https://img.shields.io/badge/quizizz%20force start-untested-important"></img>  <img src="https://img.shields.io/badge/quizizz%20kick-untested-important"></img>  <img src="https://img.shields.io/badge/blooket%20container highlight-untested-important"></img>  <img src="https://img.shields.io/badge/blooket%20answer website-working-success"></img>
 
 
 ## <p align="center">🛈 What is this?</p>
