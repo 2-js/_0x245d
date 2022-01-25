@@ -10,4 +10,4 @@
 <p align="center">Blooket is now banning people who are using hacks. If you decide to use this resource, I am not responsible for any account damage. Please read the Blooket TOS for further information. https://www.blooket.com/terms <br>
 Quizizz is also banning people for the use of automated scripts "any automated use of the system, such as, but not limited to, using scripts to create or post content;" tos https://quizizz.com/tos</p>
 
-<p style="text-width=700px:">hello</p>
+<p style="text-width: 700px;">hello</p>
