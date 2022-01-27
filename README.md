@@ -1,4 +1,4 @@
-<div align="center"> <img src=https://img.shields.io/badge/cheats%20working-10-blue></img>  <img src=https://img.shields.io/badge/catagorys%40master-quizizz%2C%20quizlet%2C%20blooket-blue></img>  <img src=https://img.shields.io/badge/platform-ios%20%7C%20win--32%20%7C%20chrome%20os-lightgrey></img></div>  
+<div align="center"> <img src=https://img.shields.io/badge/cheats%20working-10-blue></img>  <img src=https://img.shields.io/badge/catagorys%40master-quizizz%2C%20quizlet%2C%20blooket-blue></img>  <img src=https://img.shields.io/badge/language-minified%20javascript-yellow></img>  <img src=https://img.shields.io/badge/platform-ios%20%7C%20win--32%20%7C%20chrome%20os-lightgrey></img></div>  
 
 
 ## <p align="center">🛈 What is this?</p>
